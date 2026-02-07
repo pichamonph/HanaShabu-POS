@@ -44,9 +44,6 @@ A full-stack **Point of Sale (POS) and restaurant management system** built for 
 
 ## Screenshots
 
-<details>
-<summary>Click to expand screenshots</summary>
-
 ### Customer Pages
 | Landing Page | Login | Reservation |
 |:---:|:---:|:---:|
@@ -87,8 +84,6 @@ A full-stack **Point of Sale (POS) and restaurant management system** built for 
 | Add Employee | Edit Employee | Admin Dashboard |
 |:---:|:---:|:---:|
 | ![Add](sourceCode/public/hana_pos/add-employee.jpg) | ![Edit](sourceCode/public/hana_pos/edit-employee-info.jpg) | ![Dashboard](sourceCode/public/hana_pos/admin-dashboard.jpg) |
-
-</details>
 
 ## Tech Stack
 
